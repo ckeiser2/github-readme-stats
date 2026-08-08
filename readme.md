@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/ckeiser2/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
-  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
-  <p>Get dynamically generated GitHub stats on your READMEs!</p>
-</div>
-
-<p align="center">
-  <a href="https://github.com/ckeiser2/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/ckeiser2/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/ckeiser2/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ckeiser2/github-readme-stats" />
-  </a>
 
 <details>
 <summary>Table of contents (Click to show)</summary>
